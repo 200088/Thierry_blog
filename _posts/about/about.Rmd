@@ -5,6 +5,9 @@ author:
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
-fffff
 
-- first name/surname, teacher’s name, class name and academic year
+
+I am Thierry Duez.
+My teacher is Ingrid Van Lancker.
+I am in Bab 2 in biology.
+Academic year : 2020-2021.
