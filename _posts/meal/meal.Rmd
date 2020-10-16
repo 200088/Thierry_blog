@@ -9,6 +9,9 @@ categories:
 output: distill::distill_article
 ---
 
+16 oct
+
+I watched tutorials to paint a gunpla on Youtube ( in english )
 
 Here are a few examples (some of them are based on examples I've read on blogs so far):
 
