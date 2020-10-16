@@ -7,7 +7,7 @@ output: distill::distill_article
 ---
 
 
-I am Thierry Duez.
-My teacher is Ingrid Van Lancker.
-I am in Bab 2 in biology.
-Academic year : 2020-2021.
+* I am Thierry Duez.
+* My teacher is Ingrid Van Lancker.
+* I am in Bab 2 in biology.
+* Academic year : 2020-2021.
