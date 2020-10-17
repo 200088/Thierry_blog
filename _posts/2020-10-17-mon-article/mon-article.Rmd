@@ -1,7 +1,7 @@
 ---
 title: "article 1"
-description: analysis of the article " hungry bumble bees make plants flower early cutting holes their leaves|
-  A short description of the post.
+description: 
+ analysis of the article " hungry bumble bees make plants flower early cutting holes their leaves.
 author:
   - name: ___
     url: {}
@@ -14,6 +14,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
 
 Distill is a publication format for scientific and technical writing, native to the web.
 
