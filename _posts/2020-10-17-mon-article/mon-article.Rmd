@@ -20,6 +20,37 @@ knitr::opts_chunk$set(echo = FALSE)
 * Source of the article: [ici](https://www.sciencemag.org/news/2020/05/hungry-bumblebees-make-plants-flower-early-cutting-holes-their-leaves)
 
 * words:
+
+# - VOCABULARY
+| **word from the text** | **synonym/definition in english** | **French translation** |
+|------------------------|-----------------------------------|------------------------|
+| nibble                 |                                   |                        |
+| spurring               |                                   |                        |
+| triggered              |                                   |                        |
+| incentive              |                                   |                        |
+| mesh                   |                                   |                        |
+| widespread             |                                   |                        |
+
+# ANALYSIS ABOUT THE STUDY
+
+* Researchers?
+    +
+
+* Published in? when (if mentioned)? 
+    +
+
+* General topic
+    +
+    
+* Procedure/what was examined 
+    +
+    +
+    +
+
+* Conclusions/ discovery 
+    +
+
+* Remaining questions  
 Distill is a publication format for scientific and technical writing, native to the web.
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
