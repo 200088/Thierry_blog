@@ -33,6 +33,21 @@
     "last_modified": "2020-10-16T15:07:15+02:00"
   },
   {
+    "path": "posts/2020-10-17-mon-article/",
+    "title": "mon article",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "___",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-17",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-17T11:08:05+02:00"
+  },
+  {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
     "title": "Bacterium adaptation",
     "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
