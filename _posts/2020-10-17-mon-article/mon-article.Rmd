@@ -15,8 +15,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-
+#SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
+* Source of the article: [ici] (https://www.sciencemag.org/news/2020/05/hungry-bumblebees-make-plants-flower-early-cutting-holes-their-leaves)
+* words:
 Distill is a publication format for scientific and technical writing, native to the web.
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
