@@ -26,10 +26,9 @@ knitr::opts_chunk$set(echo = FALSE)
 |------------------------|-----------------------------------|------------------------|
 | nibble                 | to bite off, eat or chew in small bits | petite bouchée, petit bout                       |
 | spurring               | to incite (one) to take action   | incitant                       |
-| triggered              | to cause or begin                                  |                        | déclencher, provoquer
+| triggered              | to cause or begin    | déclencher, provoquer                       | 
 | incentive              | something that arouses someone to action                                  | avantage                       |
-| mesh                   | an intertwined structure resembling a net;
-network.                                  | filet                       |
+| mesh| an intertwined structure resembling a net;network.| filet                       |
 | widespread             | spread over a wide area                                  | étendu                       |
 
 For the definitions and the translations I used Wordreference
