@@ -11,5 +11,5 @@ output: distill::distill_article
 
 16 oct : I watched tutorials to paint a gunpla on Youtube ( in english )
 
-
+20 oct : I read a light novel called Konosuba and it was very amazing
 

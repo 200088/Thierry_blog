@@ -1,5 +1,5 @@
 ---
-title: "article 1"
+title: "article 1 : hungry bumble bees make plants flower early cutting holes their leaves"
 description: 
  analysis of the article " hungry bumble bees make plants flower early cutting holes their leaves.
 author:
@@ -17,40 +17,50 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
 
-* Source of the article: [ici](https://www.sciencemag.org/news/2020/05/hungry-bumblebees-make-plants-flower-early-cutting-holes-their-leaves)
+* Source of the article: [ici](https://www.sciencemag.org/news/2020/05/hungry-bumblebees-make-plants-flower-early-cutting-holes-their-leaves) (21/05/20)
 
-* words:
+* word count: 768
 
 # - VOCABULARY
 | **word from the text** | **synonym/definition in english** | **French translation** |
 |------------------------|-----------------------------------|------------------------|
-| nibble                 |                                   |                        |
-| spurring               |                                   |                        |
-| triggered              |                                   |                        |
-| incentive              |                                   |                        |
-| mesh                   |                                   |                        |
-| widespread             |                                   |                        |
+| nibble                 | to bite off;
+eat or chew in small bits                                  | petite bouchée, petit bout                       |
+| spurring               | to incite (one) to take action                                  | incitant                       |
+| triggered              | to cause or begin                                  |                        | déclencher, provoquer
+| incentive              | something that arouses someone to action                                  | avantage                       |
+| mesh                   | an intertwined structure resembling a net;
+network.                                  | filet                       |
+| widespread             | spread over a wide area                                  | étendu                       |
 
 # ANALYSIS ABOUT THE STUDY
 
 * Researchers?
-    +
+    + ETH Zurich ( co-leader = Mark Mescher and Consuelo De Moraes )
 
 * Published in? when (if mentioned)? 
-    +
+    + Science
 
 * General topic
-    +
+    + The cut in a leaf by a pollinator enable an earlier flowering for the plant
     
 * Procedure/what was examined 
-    +
-    +
-    +
+    + To put mesh bags on Brassica nigra to avoid that the bumble bees feed
+    + The bumble bees do cuts in leafs on the plant not still in flowering
+    + The plants bloom in seventeen days ahead thirty-three days for the plants without cuts
 
 * Conclusions/ discovery 
-    +
+    + The bumble bees enable to bloom earlier with their cuts in leaf to found quicker food. The researchers think that the saliva of bumble bees contains chemical agents which look like to chemical agent of plant-eating insect. So the plant want a reproduction more quickly.
 
-* Remaining questions  
+* Remaining questions
+    + /
+ 
+### réference de l'article:
+Erik Stokstad, https://www.sciencemag.org/news/2020/05/hungry-bumblebees-make-plants-flower-early-cutting-holes-their-leaves, visited on October 3, 2020
+
+ 
+
+
 Distill is a publication format for scientific and technical writing, native to the web.
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
