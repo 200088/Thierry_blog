@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = FALSE)
 # - VOCABULARY
 | **word from the text** | **synonym/definition in english** | **French translation** |
 |------------------------|-----------------------------------|------------------------|
-| nibble                 | to bite off;
- eat or chew in small bits                                  | petite bouchée, petit bout                       |
+| nibble                 | to bite off, eat or chew in small bits           
+                                  | petite bouchée, petit bout                       |
 | spurring               | to incite (one) to take action                                  | incitant                       |
 | triggered              | to cause or begin                                  |                        | déclencher, provoquer
 | incentive              | something that arouses someone to action                                  | avantage                       |
