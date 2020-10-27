@@ -14,8 +14,9 @@ navbar:
 base_url: https://200088.github.io/Thierry_blog/
 collections:
     posts:
+      disqus: thierrys-blog
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      
 output:
   distill::distill_article:
     css: style.css

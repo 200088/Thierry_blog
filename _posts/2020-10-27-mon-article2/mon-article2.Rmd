@@ -1,0 +1,47 @@
+---
+title: "mon article2"
+description: |
+  A short description of the post.
+author:
+  - name: ___
+    url: {}
+date: 10-27-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
+
+* Source of the article:
+
+* word count:
+
+# - VOCABULARY
+
+
+# ANALYSIS ABOUT THE STUDY
+
+* Researchers?
+
+
+* Published in? when (if mentioned)? 
+
+
+* General topic
+
+
+* Procedure/what was examined 
+
+
+* Conclusions/ discovery 
+
+
+* Remaining questions
+
+
+### réference de l'article:
