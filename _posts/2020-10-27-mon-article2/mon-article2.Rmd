@@ -1,7 +1,7 @@
 ---
-title: "mon article2"
+title: "article 2 : bumble bee disease, reproduction shaped by flowering strip plants"
 description: |
-  A short description of the post.
+  analysis of the article " bumble bee disease, reproduction shaped by flowering strip plants "
 author:
   - name: ___
     url: {}
@@ -17,31 +17,56 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
 
-* Source of the article:
+* Source of the article: [ici](https://www.sciencedaily.com/releases/2020/05/200511154852.htm ) (11/05/20)
 
-* word count:
+* word count: 524
 
 # - VOCABULARY
+
+| **word from the text**         | **synonym/definition in english**    | **French translation**                         |
+|--------------------------------|--------------------------------------|------------------------------------------------|
+|     strips                     |     long piece                       |     bande                                      |
+|     foraging                   |     gathering,   hunting for food    |     qui recherche   de la nourriture           |
+|     offset                     |     counterbalance                   |     Contrebalancer,   compenser                |
+|     canola                     |     rape: crop grown for oil         |     Colza                                      |
+|     Nonetheless                |     despite this                     |     néanmoins                                  |
+|     relative                   |     family member                    |     membre de la famille,   parent, parente    |
+|     mitigate                   |     become less severe               |     s'atténuer,   se réduire                   |
+|     gleaned ( verb = glean)    |     discover slowly                  |     glaner                                     |
+|     milkweed                   |     plant with white sap             |     asclépiade                                 |
+|     Purple loosestrife         |     botany                           |     salicaire   commune                        |
+|     prior                      |     previous                         |     précédent                                  |
+|     patterns                   |     arrangement, configuration       |     motif                                      |
 
 
 # ANALYSIS ABOUT THE STUDY
 
 * Researchers?
-
+    + North Carolina State University
+    + University of Massachusetts Amherst
 
 * Published in? when (if mentioned)? 
+    + Proceedings of the National Academy of Sciences
 
 
 * General topic
-
+    + -	The flowering strips bring food for colonies of bees and also a rise of infection by Crithidia bomby
 
 * Procedure/what was examined 
+    + -	Put the bees in three different tents :  
+        + One with “ high-infection flowering strips ” 
+        + One with “ low-infection flowering strips “
+        + One without “ flowering strips “
+      =>	All bees own the same infection rate
+
 
 
 * Conclusions/ discovery 
+    + Despite the rate of infection of Crithidia bomby, the colony of bees continues to rise. So the flowering strips with this pathogen is not a problem for the growth of bees
 
 
 * Remaining questions
-
+    + What are the effects by other pathogen agents on  the bees ?
 
 ### réference de l'article:
+North Carolina State University, https://www.sciencedaily.com/releases/2020/05/200511154852.htm , visited on Oktober 10, 2020.
