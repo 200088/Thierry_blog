@@ -18,8 +18,7 @@ collections:
       share: [twitter, linkedin, facebook]
       categories:
           - Data Sciences I
-      categories_metadata: 
-        - Data Sciences I
+      categories_metadata: FALSE
       authors_metadata: FALSE
       
 output:
