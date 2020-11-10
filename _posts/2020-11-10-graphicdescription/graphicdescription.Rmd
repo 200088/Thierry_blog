@@ -1,6 +1,6 @@
 ---
 title: "graphic_description"
-categorie: 
+categories: 
   - Data Sciences I
 description: |
   A short description of the post.
