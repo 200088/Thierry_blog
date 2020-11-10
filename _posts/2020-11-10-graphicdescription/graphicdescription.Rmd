@@ -17,7 +17,25 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+```{r}
+SciViews::R
+```
+
+
+```{r importation}
+urchin <- read("urchin_bio", package = "data.io")
+```
+
+
+To begining, I am going to speak about the data used. this data are from the professor Philippe Grosjean about the devellopement of a urchin specie called Paracentrotus lividus Lamarck (1816).
+
+```{r}
+chart(urchin, diameter1 ~ origin %fill=% origin) +
+  geom_boxplot()
+```
+
+We can see that the urchins from farm can reach a bigger diameter and the higest diameter can reach more than 60 mm. I choosed this graphic to show a difference between urchins to different environments.
+
 
