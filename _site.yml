@@ -16,7 +16,8 @@ collections:
     posts:
       disqus: thierrys-blog
       share: [twitter, linkedin, facebook]
-      categories: FALSE
+      categories:
+          - Data Sciences I
       categories_metadata: FALSE
       authors_metadata: FALSE
       
