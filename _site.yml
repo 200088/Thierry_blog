@@ -16,6 +16,9 @@ collections:
     posts:
       disqus: thierrys-blog
       share: [twitter, linkedin, facebook]
+      categories: FALSE
+      categories_metadata: FALSE
+      authors_metadata: FALSE
       
 output:
   distill::distill_article:
