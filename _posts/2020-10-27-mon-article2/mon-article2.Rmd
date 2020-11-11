@@ -1,6 +1,6 @@
 ---
 title: "article 2 : bumble bee disease, reproduction shaped by flowering strip plants"
-categorie:
+categories:
   - pollinators
 description: |
   analysis of the article " bumble bee disease, reproduction shaped by flowering strip plants "

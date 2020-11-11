@@ -44,9 +44,11 @@
       }
     ],
     "date": "2020-10-27",
-    "categories": [],
+    "categories": [
+      "pollinators"
+    ],
     "preview": {},
-    "last_modified": "2020-11-11T10:47:01+01:00"
+    "last_modified": "2020-11-11T10:57:16+01:00"
   },
   {
     "path": "posts/meal/",
@@ -77,9 +79,11 @@
       }
     ],
     "date": "2020-10-17",
-    "categories": [],
+    "categories": [
+      "pollinators"
+    ],
     "preview": {},
-    "last_modified": "2020-11-11T10:51:39+01:00"
+    "last_modified": "2020-11-11T10:57:29+01:00"
   },
   {
     "path": "posts/about/",
