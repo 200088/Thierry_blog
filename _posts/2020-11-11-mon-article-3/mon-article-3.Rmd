@@ -1,0 +1,80 @@
+---
+title: "Article 3 : Researchers look for answers as to why western bumblebees are declining"
+description: |
+  analysis of the article: "Researchers look for answers as to why western bumblebees are declining".
+author:
+  - name: ___
+    url: {}
+date: 11-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
+
+* Source of the article: https://www.sciencedaily.com/releases/2020/06/200629164148.htm
+
+
+* Date of article: June 29, 2020
+
+* Word count: 818
+
+# - VOCABULARY
+
+| Word from the text | Synomym/definition in English | French translation          |
+|--------------------|-------------------------------|-----------------------------|
+| provide            | furnish, supply               | fournir                     |
+| endangered         | species: close to extinction  | menacé d'extinction         |
+| culprit            | causing a problem             | coupable                    |
+| sample             | representative piece          | échantillon                 |
+| funding            | financing                     | financement                 |
+| occupancy          | tenancy: of a property        | occupation                  |
+| homeowner          | person who owns a house       | pripriétaire                |
+| thrive             | grow healthily                | bien se porter              |
+| throughout         | time: during all of           | tout au long de             |
+| tank               | storage container for liquids | réservoir                   |
+| nesting            | bird: building a nest         | nidification                |
+| overwintering      | staying during the winter     | hivernage                   |
+| patch              | small area of                 | bout, carré, parcelle, coin |
+| litter             | leaf litter                   | litière                     |
+| buzzing            | hummming sound                | bourdonnement               |
+
+For the definitions and the translations, I used Wordreference
+
+# ANALYSIS ABOUT THE STUDY
+
+* Researchers?
+    +	Researchers of University of Wyoming
+    +	Co-author = Lusha Tronstad and Christy Bell
+
+
+* Published in? when (if mentioned)? 
+    + Published in Ecosphere
+
+* General topic
+    + The analysis of the western bumble bees population and we can see that the population decrease. 
+
+* Procedure/what was examined 
+    +	Using a modeling system to measure the probability to found the Western bumble bees.
+    +	Between 1998 and 2018, the amount of bumble bees decreased to ninety three percent
+
+
+* Conclusions/ discovery 
+    + This study will allow to provide the data for Fish and Wildlife Service. And this organization will decide if the western bumble bee will  get a endangered Species Act.
+
+
+* Remaining questions
+    + What are the effects on the Western bumble bee by the pathogens ?
+
+
+### réference de l'article:
+
+University of Wyoming, https://www.sciencedaily.com/releases/2020/06/200629164148.htm, visited on Oktober 10, 2020.
+
+

@@ -17,9 +17,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
 
-* Source of the article: [ici](https://www.sciencedaily.com/releases/2020/05/200511154852.htm ) (11/05/20)
+* Source of the article:
+    + https://www.sciencedaily.com/releases/2020/05/200511154852.htm 
+* Date of article:
+    + (11/05/20)
 
-* word count: 524
+* Word count: 524
 
 # - VOCABULARY
 
