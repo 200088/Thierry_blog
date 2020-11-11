@@ -1,5 +1,7 @@
 ---
 title: "article 2 : bumble bee disease, reproduction shaped by flowering strip plants"
+categorie:
+  - English for Science
 description: |
   analysis of the article " bumble bee disease, reproduction shaped by flowering strip plants "
 author:
