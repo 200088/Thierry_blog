@@ -41,6 +41,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |     prior                      |     previous                         |     précédent                                  |
 |     patterns                   |     arrangement, configuration       |     motif                                      |
 
+For the definitions and the translations, I used Wordreference
 
 # ANALYSIS ABOUT THE STUDY
 
@@ -60,7 +61,8 @@ knitr::opts_chunk$set(echo = FALSE)
         + One with “ high-infection flowering strips ” 
         + One with “ low-infection flowering strips “
         + One without “ flowering strips “
-      =>	All bees own the same infection rate
+
+=>	All bees own the same infection rate
 
 
 
