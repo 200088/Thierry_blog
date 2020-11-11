@@ -1,7 +1,7 @@
 ---
 title: "Article 3 : Researchers look for answers as to why western bumblebees are declining"
 categorie:
-  - English for Science
+  - pollinators
 description: |
   analysis of the article: "Researchers look for answers as to why western bumblebees are declining".
 author:
