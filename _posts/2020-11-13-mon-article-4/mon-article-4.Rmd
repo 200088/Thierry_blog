@@ -1,7 +1,7 @@
 ---
-title: " Article 4  : "Its body looked like a warzone.’ Air pollution could kill off critical honey bees in India""
+title: " Article 4  : Its body looked like a warzone.’ Air pollution could kill off critical honey bees in India"
 categories:
-  pollinators
+  - pollinators
 description: |
  analysis of article : "Its body looked like a warzone.’ Air pollution could kill off critical honey bees in India"
 author:
