@@ -1,0 +1,84 @@
+---
+title: " Article 4  : "Its body looked like a warzone.’ Air pollution could kill off critical honey bees in India""
+categories:
+  pollinators
+description: |
+ analysis of article : "Its body looked like a warzone.’ Air pollution could kill off critical honey bees in India"
+author:
+  - name: ___
+    url: {}
+date: 11-13-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
+
+* Source of the article: : https://www.sciencemag.org/news/2020/08/its-body-looked-warzone-air-pollution-could-kill-critical-honey-bees-india 
+
+* Date of article: 10/08/20
+
+* Word count: 715
+
+# - VOCABULARY
+
+| **Word from the text** | **Synonym/definition in English** | **French translation**  |
+|------------------------|-----------------------------------|-------------------------|
+| sting                  | unpleasantness                    | coup, douleur           |
+| acutely                | intensely                         | intensément             |
+| Mildly                 | moderately                        | légèrement              |
+| emphasize              | stress, say more loudly           | accentuer               |
+| soot                   | chimney substance                 | suie                    |
+| ubiquitous             | omnipresent, everywhere           | omniprésent             |
+| assessed               | evaluate                          | évaluer                 |
+| verdant                | green with vegetation             | verdoyant               |
+| crud                   | gunk: unpleasant buildup          | saleté                  |
+| lead                   | chemistry: element                | plomb                   |
+| matter                 | substance, material               | matière                 |
+| current                | at present                        | actuel                  |
+| strive                 | exert oneself                     | faire tout son possible |
+
+For the definitions and the translations, I used Wordreference
+
+# ANALYSIS ABOUT THE STUDY
+
+* Researchers?
+  +	Ecologists from the National Centre for Biological Sciences
+  +	Geetha Thimmegowda ( postdoc )
+
+* Published in? when (if mentioned)? 
+  + In “Proceeding of the National Academy of Science”
+
+
+* General topic
+  + The effect of the pollution on the population of Apis dorsata called giant Asian honey bee  in India
+
+
+* Procedure/what was examined 
+  +	To collect honey bees in four area with each a different rate of pollution 
+  +	To analyse the body’s bee
+  +	The bees  from the zone the most pollution wear the toxin of heavy metal, lead and arsenic
+  +	 Those bees own cardiac problems, a decrease of blood cells and the diminution of the expression for the gene in link with the stress and immunity
+  + => Diminution of pollinisation
+
+
+* Conclusions/ discovery 
+  + The pollution reduce the life expectancy of the giant Asian honey bee and this decrease risk to induce a diminution of fruit’s production 
+
+* Remaining questions
+  + /
+
+### réference de l'article:
+  
+  Harini Barath, https://www.sciencemag.org/news/2020/08/its-body-looked-warzone-air-pollution-could-kill-critical-honey-bees-india , visited on november 14, 2020. 
+
+
+
+
+
+
