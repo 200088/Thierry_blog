@@ -64,7 +64,7 @@ For the definitions and the translations, I used Wordreference
         + One with “ low-infection flowering strips “
         + One without “ flowering strips “
 
-=>	All bees own the same infection rate
+    + =>	All bees own the same infection rate
 
 
 
