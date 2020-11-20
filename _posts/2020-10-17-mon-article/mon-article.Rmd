@@ -1,9 +1,9 @@
 ---
-title: "article 1 : hungry bumble bees make plants flower early cutting holes their leaves"
+title: "article 1 : hungry bumble bees make plants flower early cutting holes their in leaves"
 categories:
   - pollinators
 description: 
- analysis of the article " hungry bumble bees make plants flower early cutting holes their leaves.
+ analysis of the article " hungry bumble bees make plants flower early cutting holes in their leaves.
 author:
   - name: ___
     url: {}
@@ -19,7 +19,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
 
-* Source of the article: [ici](https://www.sciencemag.org/news/2020/05/hungry-bumblebees-make-plants-flower-early-cutting-holes-their-leaves) (21/05/20)
+* Source of the article: https://www.sciencemag.org/news/2020/05/hungry-bumblebees-make-plants-flower-early-cutting-holes-their-leaves 
+
+*date of article : May 21, 2020
 
 * word count: 768
 
