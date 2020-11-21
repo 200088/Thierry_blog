@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Source of the article: https://www.sciencemag.org/news/2020/05/hungry-bumblebees-make-plants-flower-early-cutting-holes-their-leaves 
 
-*date of article : May 21, 2020
+* date of article : May 21, 2020
 
 * word count: 768
 
