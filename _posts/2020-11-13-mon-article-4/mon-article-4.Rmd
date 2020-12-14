@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
 
-* Source of the article: :::: https://www.sciencemag.org/news/2020/08/its-body-looked-warzone-air-pollution-could-kill-critical-honey-bees-india 
+* Source of the article:  https://www.sciencemag.org/news/2020/08/its-body-looked-warzone-air-pollution-could-kill-critical-honey-bees-india 
 
 * Date of article: 10/08/20
 
