@@ -25,23 +25,24 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # - VOCABULARY
 
-\begin{table}[]
-\begin{tabular}{lll}
-| **Word from the text** | **Synonym/definition in English** | **French translation**              |
-Moth                   | Winged insect                     | Papillon de nuit                    |
-Outsmart               | Beat by cunning                   | Se montrer plus rusé que            |
-Hawkmoth               | Type of moth                      | Sphinx colibri                      |
-Havoc                  | Chaos, disturbance                | Ravages, dégâts, dévastation        |
-Scent                  | Pleasant smell                    | Parfum, odeur, senteur              |
-Crop                   | Farming: {[}sth{]} cultivated     | Culture                             |
-Overcoming             | Defeat, vanquish                  | Vaincre, défaire, battre, surmonter |
-Mouthpart              | Anthropod: appendage for feeding  | Rostre                              |
-Probe                  | Examine by poking                 | Sonder, explorer, examiner          |
-lure                   | figurative ( a person )           | Attirer (par la ruse )              |
-Cue                    | Hint, signal                      | Signal                              \\
-Occur                  | Happen                            | Se produire                         \\
-Twilight               | Time of the day                   | Crépuscule, tombée de la nuit       |
-Clarion                | Historical ( trumpet )            | Clairon                            |
+
+| **Word from the text** | **Synonym/definition in English** | **French translation** 
+ |
+|------------------------|-----------------------------------|-------------------------|
+Moth                     | Winged insect                     | Papillon de nuit                    |
+Outsmart                 | Beat by cunning                   | Se montrer plus rusé que            |
+Hawkmoth                 | Type of moth                      | Sphinx colibri                      |
+Havoc                    | Chaos, disturbance                | Ravages, dégâts, dévastation        |
+Scent                    | Pleasant smell                    | Parfum, odeur, senteur              |
+Crop                     | Farming: {[}sth{]} cultivated     | Culture                             |
+Overcoming               | Defeat, vanquish                  | Vaincre, défaire, battre, surmonter |
+Mouthpart                | Anthropod: appendage for feeding  | Rostre                              |
+Probe                    | Examine by poking                 | Sonder, explorer, examiner          |
+lure                     | figurative ( a person )           | Attirer (par la ruse )              |
+Cue                      | Hint, signal                      | Signal                              |
+Occur                    | Happen                            | Se produire                         |
+Twilight                 | Time of the day                   | Crépuscule, tombée de la nuit       |
+Clarion                  | Historical ( trumpet )            | Clairon                            |
 
 
 
