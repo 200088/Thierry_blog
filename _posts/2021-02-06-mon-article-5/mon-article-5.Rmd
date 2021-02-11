@@ -1,6 +1,6 @@
 ---
 title: "Article 5 : Bees'buzz is more powerful for pollinisation, than for defense or flight"
-categorie: 
+categories: 
   - pollinators
 description: |
   analysis of article : Bees'buzz is more powerfull for pollinisation, than for defense or flight 
