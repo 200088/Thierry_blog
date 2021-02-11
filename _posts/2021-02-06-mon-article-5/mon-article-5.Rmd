@@ -1,7 +1,7 @@
 ---
-title: "Article 5 : This moth may outsmart smog by learning to like pollution-altered aromas"
+title: "Article 5 : Bees'buzz is more powerful for pollinisation, than for defense or flight"
 description: |
-  analysis of article :This moth may outsmart smog by learning to like pollution-altered aromas 
+  analysis of article : Bees'buzz is more powerfull for pollinisation, than for defense or flight 
 author:
   - name: ___
     url: {}
@@ -17,32 +17,27 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
 
-* Source of the article: https://www.sciencenews.org/article/moth-learn-pollution-smog-altered-aromas-flower-smells
+* Source of the article: https://www.sciencedaily.com/releases/2020/07/200729114732.htm
 
-* Date of article: 11/09/20
+* Date of article: 29/07/20
 
-* Word count:713
+* Word count: 515
 
 # - VOCABULARY
 
-
-| **Word from the text** | **Synonym/definition in English** | **French translation**              |
-|------------------------|-----------------------------------|-------------------------------------|
-| Moth                   | Winged insect                     | Papillon de nuit                    |
-| Outsmart               | Beat by cunning                   | Se montrer plus rusé que            |
-| Hawkmoth               | Type of moth                      | Sphinx colibri                      |
-| Havoc                  | Chaos, disturbance                | Ravages, dégâts, dévastation        |
-| Scent                  | Pleasant smell                    | Parfum, odeur, senteur              |
-| Crop                   | Farming: [sth] cultivated         | Culture                             |
-| Overcoming             | Defeat, vanquish                  | Vaincre, défaire, battre, surmonter |
-| Mouthpart              | Anthropod: appendage for feeding  | Rostre                              |
-| Probe                  | Examine by poking                 | Sonder, explorer, examiner          |
-| lure                   | figurative ( a person )           | Attirer (par la ruse )              |
-| Cue                    | Hint, signal                      | Signal                              |
-| Occur                  | Happen                            | Se produire                         |
-| Twilight               | Time of the day                   | Crépuscule, tombée de la nuit       |
-| Clarion                | Historical ( trumpet )            | Clairon                             |
-
+| **Word from the text** | **Synonym/definition in English** | **French translation**                 |
+|------------------------|-----------------------------------|----------------------------------------|
+| Insight                | Instance of understanding         | Eclairage                              |
+| Rather than            | In preference to                  | Plutôt que                             |
+| Flap                   | Wings: move, beat                 | Battre                                 |
+| Occur                  | Happen                            | Se produire, apparaître, se présenter  |
+| Tether                 | Faster, attach                    | Attacher                               |
+| Gentle                 | Impact                            | Faible                                 |
+| Reflective             | Reflecting light                  | réfléchissant                          |
+| Tag                    | Identification label              | Etiquette                              |
+| Whether                | If                                | Si                                     |
+| Differ                 | be different                      | différer, être différent, se distinger |
+| Buzz                   | insect: make humming sound fly    | Bourdonner                             |
 
 
 For the definitions and the translations, I used Wordreference.
@@ -50,37 +45,33 @@ For the definitions and the translations, I used Wordreference.
 # ANALYSIS ABOUT THE STUDY
 
 * Researchers?
-  + Markus Knaden ( chemical ecologist) and his colleagues 
-  + from Max plank Institute for Chemical Ecology
-
+  + Dr David Pritchard and Dr Mario Vallejo-Marin from the University of Stirling
 
 * Published in? when (if mentioned)? 
-  + Journal of Chemical Ecology
-
-
+  + Not mentioned
 
 
 * General topic
-  + the changement of behavior by the tobacco hawkmoth caused by The ozone’s effect on the smell of the jasmine tobacco flower
-
+  + The difference of buzzing between the buzzing for the pollinisation and the buzzing to flight or defend by the bees
 
 * Procedure/what was examined 
-  + 1.	To use a tube with normal smell of the flower = the moth is attracted.
-  + 2.	To use a tube with a tube with a smell modified by ozone = the moth is not attracted
-  + 3.	To use a tube with colors similar to the flower + sugar water + smell modified = the moth is attracted
-  + 4.	To use the tube with smell modified without colors and sugar water = the moth is attracted
+  +-	To scan with a lazer the speed of the movement on the body bee while she is flighting, defending and feeding
+  + -	The buzzing is more powerful while the bee is feeding at the flower.
 
 
 * Conclusions/ discovery 
-  + The tobacco hawkmoth can adapt to the pollution.
+  + The researchers suggest that the bee own different kinds of buzzing according to the task.
 
 
 * Remaining questions
-  + Wich others pollinators can adapt to the pollution ?
-
+  + Why does not the honeybee buzz the flowers ?
 
 ### réference de l'article:
-Drahl, C.(2020). This moth may outsmart smog by learning to like pollution-altered aromas. ScienceNews.https://www.sciencenews.org/article/moth-learn-pollution-smog-altered-aromas-flower-smells .
+
+University of Stirling.Bees'buzz is more powerful for pollinisation, than for defense or flight. ScienceDaily. https://www.sciencedaily.com/releases/2020/07/200729114732.htm. 
+
+
+
 
 
 
