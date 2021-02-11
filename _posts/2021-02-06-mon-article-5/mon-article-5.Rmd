@@ -1,5 +1,7 @@
 ---
 title: "Article 5 : Bees'buzz is more powerful for pollinisation, than for defense or flight"
+categorie: 
+  - pollinators
 description: |
   analysis of article : Bees'buzz is more powerfull for pollinisation, than for defense or flight 
 author:
@@ -33,10 +35,10 @@ knitr::opts_chunk$set(echo = FALSE)
 | Occur                  | Happen                            | Se produire, apparaître, se présenter  |
 | Tether                 | Faster, attach                    | Attacher                               |
 | Gentle                 | Impact                            | Faible                                 |
-| Reflective             | Reflecting light                  | réfléchissant                          |
+| Reflective             | Reflecting light                  | Réfléchissant                          |
 | Tag                    | Identification label              | Etiquette                              |
 | Whether                | If                                | Si                                     |
-| Differ                 | be different                      | différer, être différent, se distinger |
+| Differ                 | be different                      | Différer, être différent, se distinger |
 | Buzz                   | insect: make humming sound fly    | Bourdonner                             |
 
 
