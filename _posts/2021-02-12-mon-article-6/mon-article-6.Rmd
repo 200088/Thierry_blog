@@ -1,0 +1,79 @@
+---
+title: "Article 6 : This moth may outsmart smog by learning to like pollution-altered aromas"
+categories: 
+  - pollinators
+description: |
+  Analysis of article : This moth may outsmart smog by learning to like pollution-altered aromas.
+author:
+  - name: ___
+    url: {}
+date: 02-12-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
+
+* Source of the article: https://www.sciencenews.org/article/moth-learn-pollution-smog-altered-aromas-flower-smells 
+
+* Date of article: 11/09/20
+
+* Word count: 713
+
+# - VOCABULARY
+
+| **Word from the text** | **Synonym/definition in English** | **French translation**              |
+|------------------------|-----------------------------------|-------------------------------------|
+| Moth                   | Winged insect                     | papillon de nuit                    |
+| Outsmart               | Beat by cunning                   | Se montrer plus rusé que            |
+| Hawkmoth               | Type of moth                      | Shinx colibri                       |
+| Havoc                  | Chaos, disturbance                | Ravages, dégâts, dévastation        |
+| Scent                  | Pleasant smell                    | Parfum, odeur, senteur              |
+| Crop                   | Farming: [sth] cultivated         | Culture                             |
+| Overcoming             | Defeat, vanquish                  | Vaincre, défaire, battre, surmonter |
+| Mouthpart              | Anthropod: appendage for feeding  | Rostre                              |
+| Probe                  | Examine by poking                 | Sonder, explorer, examiner          |
+| Lure                   | Figurative (a person )            | Attirer ( par la ruse )             |
+| Cue                    | Hint, signal                      | Signal                              |
+| Occur                  | Happen                            | Se produire                         |
+| Twilight               | Time of a day                     | Crépuscule, tombée de la nuit       |
+| Clarion                | Historical (trumpet)              | Clairon                             |
+
+For the definitions and the translations, I used Wordreference.
+
+# ANALYSIS ABOUT THE STUDY
+
+* Researchers?
+  + Markus Knaden ( chemical ecologist) and his colleagues from Max plank Institute for chemical Ecology
+
+
+* Published in? when (if mentioned)? 
+  + Journal of Chemical Ecology
+
+
+* General topic
+  + the changement of behavior by the tobacco hawkmoth caused by The ozone’s effect on the smell of the jasmine tobacco flower
+
+
+* Procedure/what was examined 
+  + 1.	To use a tube with normal smell of the flower = the moth is attracted
+  + 2.	To use a tube with a tube with a smell modified by ozone = the moth is not attracted
+  + 3.	To use a tube with colors similar to the flower + sugar water + smell modified = the moth is attracted
+  + 4.	To use the tube with smell modified without colors and sugar water = the moth is attracted
+
+
+* Conclusions/ discovery 
+  + The tobacco hawkmoth can adapt to the pollution
+
+
+* Remaining questions
+  + Which others pollinators can adapt to the pollution ?
+
+### réference de l'article:
+Drahl C. (2020). This moth may outsmart smog by learning to like pollution-altered aromas. ScienceNews. https://www.sciencenews.org/article/moth-learn-pollution-smog-altered-aromas-flower-smells
+
