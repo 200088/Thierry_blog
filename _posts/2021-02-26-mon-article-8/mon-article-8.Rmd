@@ -1,0 +1,83 @@
+---
+title: "mon article 8"
+description: |
+  A short description of the post.
+author:
+  - name: ___
+    url: {}
+date: 02-26-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT: 
+
+* Source of the article: https://www.sciencedaily.com/releases/2021/02/210221195714.htm 
+
+* Date of article: 21/02/21
+
+* Word count: 619
+
+# VOCABULARY:
+
+
+
+For the definitions and the translations, I used Wordreference.
+
+# ANALYSIS ABOUT THE STUDY
+
+* Researchers?
+ + Leader of study  = Nicholas Tew from the university of Bristol.
+ + Partnership = University of Edinburg, Reading and Royal Horticultural Society
+
+
+
+
+* Published in? when (if mentioned)? 
++ Journal of Ecology ( publication’s date is not mentioned)
+
+
+
+* General topic
++ The significance of the garden in the urban areas for the pollinator’s feeding 
+
+
+
+* Procedure/what was examined 
++ 	To study four cities in UK : Edinburg, Reading, Leeds, Bristol
++ To analyse the production of nectar by 200 species of plants with 3000 flower in total.
++ To measure the sugar concentration with a refractometer
++ Observation: the gardens allow for a big diversity of nectar and 29 % of the urban zone is equivalent and “fourty time the area of allotment and to six time the area of parks”
+
+
+
+* Conclusions/ discovery 
++ The gardens play a very big role in the conservation of pollinator.
++ The production of nectar is the most important “ per unit of area ” in this town.
++ The nectar from this gardens is more various than the nectar in natural reserve and farmland.
+
+
+
+
+* Remaining questions
++ /
+
+
+
+### réference de l'article:
+University of Bristol.(21/02/2021). Pioneering research reveals gardens are secret powerhouse for pollinators. ScienceDaily. https://www.sciencedaily.com/releases/2021/02/210221195714.htm . Visited on February 26, 2021
+
+
+
+
+
+
+
+
+
+
