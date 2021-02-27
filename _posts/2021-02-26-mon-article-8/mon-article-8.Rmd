@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Dandelion              | Yellow-flowered weed              | Pissenlit, dent-de-lion                           |
 | Clover                 | Plant                             | Trèfle                                            |
 | Daisy                  | Flower                            | Marguerite, pâquerette                            |
-| To harm                | Physical hurt                     | faire du mal, blesser, nuire à                    |
+| To harm                | Physical hurt                     | Faire du mal, blesser, nuire à                    |
 | Paving                 | Paved surface                     | Dallage, pavage, pavé, carrelage                  |
 | Turf                   | Ground and grass                  | Gazon, pelouse                                    |
 
