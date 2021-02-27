@@ -1,7 +1,9 @@
 ---
-title: "mon article 8"
+title: "Article 7 : Pioneering research reveals gardens are secret powerhouse for pollinators"
+categories:
+  - pollinators
 description: |
-  A short description of the post.
+  analysis of article : Pioneering research reveals gardens are secret powerhouse for pollinators
 author:
   - name: ___
     url: {}
@@ -25,7 +27,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # VOCABULARY:
 
-
+| **Word from the text** | **Synonym/definition in English** | **French translation**                            |
+|------------------------|-----------------------------------|---------------------------------------------------|
+| Wasp                   | Stinging insect                   | Guêpe                                             |
+| To account for         | To explain                        | Expliquer                                         |
+| Overwhelming           | Very great, huge                  | Important, écrasant, large                        |
+| Pivotal                | Crucial                           | Essentiel, crucial, central, clé, -clé, charnière |
+| Underpinned            | Physically: support               | Etayer, soutenir                                  |
+| Allotment              | UK( rented garden plot )          | Jardin ouvrier                                    |
+| To ensure              | Secure, guarantee                 | Assurer, garantir                                 |
+| To mow                 | Lawn, grass                       | Tondre                                            |
+| Lawn                   | Grass                             | Gazon, pelouse                                    |
+| Dandelion              | Yellow-flowered weed              | Pissenlit, dent-de-lion                           |
+| Clover                 | Plant                             | Trèfle                                            |
+| Daisy                  | Flower                            | Marguerite, pâquerette                            |
+| To harm                | Physical hurt                     | faire du mal, blesser, nuire à                    |
+| Paving                 | Paved surface                     | Dallage, pavage, pavé, carrelage                  |
+| Turf                   | Ground and grass                  | Gazon, pelouse                                    |
 
 For the definitions and the translations, I used Wordreference.
 
@@ -39,37 +57,38 @@ For the definitions and the translations, I used Wordreference.
 
 
 * Published in? when (if mentioned)? 
-+ Journal of Ecology ( publication’s date is not mentioned)
+ + Journal of Ecology ( publication’s date is not mentioned)
 
 
 
 * General topic
-+ The significance of the garden in the urban areas for the pollinator’s feeding 
+ + The significance of the garden in the urban areas for the pollinator’s feeding 
 
 
 
 * Procedure/what was examined 
-+ 	To study four cities in UK : Edinburg, Reading, Leeds, Bristol
-+ To analyse the production of nectar by 200 species of plants with 3000 flower in total.
-+ To measure the sugar concentration with a refractometer
-+ Observation: the gardens allow for a big diversity of nectar and 29 % of the urban zone is equivalent and “fourty time the area of allotment and to six time the area of parks”
+ + To study four cities in UK : Edinburg, Reading, Leeds, Bristol
+ + To analyse the production of nectar by 200 species of plants with 3000 flower in total.
+ + To measure the sugar concentration with a refractometer
+ + Observation: the gardens allow for a big diversity of nectar and 29 % of the urban zone is equivalent and “fourty time the area of allotment and to six time the area of parks”
 
 
 
 * Conclusions/ discovery 
-+ The gardens play a very big role in the conservation of pollinator.
-+ The production of nectar is the most important “ per unit of area ” in this town.
-+ The nectar from this gardens is more various than the nectar in natural reserve and farmland.
+ + The gardens play a very big role in the conservation of pollinator.
+ + The production of nectar is the most important “ per unit of area ” in this town.
+ + The nectar from this gardens is more various than the nectar in natural reserve and farmland.
 
 
 
 
 * Remaining questions
-+ /
+ + /
 
 
 
 ### réference de l'article:
+
 University of Bristol.(21/02/2021). Pioneering research reveals gardens are secret powerhouse for pollinators. ScienceDaily. https://www.sciencedaily.com/releases/2021/02/210221195714.htm . Visited on February 26, 2021
 
 
