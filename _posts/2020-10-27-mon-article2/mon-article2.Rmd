@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |     Nonetheless                |     despite this                     |     néanmoins                                  |
 |     relative                   |     family member                    |     membre de la famille,   parent, parente    |
 |     mitigate                   |     become less severe               |     s'atténuer,   se réduire                   |
-|     gleaned ( verb = glean)    |     discover slowly                  |     glaner                                     |
+|     gleaned ( verb =  to glean)    |     discover slowly                  |     glaner                                     |
 |     milkweed                   |     plant with white sap             |     asclépiade                                 |
 |     Purple loosestrife         |     botany                           |     salicaire   commune                        |
 |     prior                      |     previous                         |     précédent                                  |
