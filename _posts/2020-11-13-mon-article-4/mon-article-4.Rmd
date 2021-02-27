@@ -31,17 +31,17 @@ knitr::opts_chunk$set(echo = FALSE)
 |------------------------|-----------------------------------|-------------------------|
 | sting                  | unpleasantness                    | coup, douleur           |
 | acutely                | intensely                         | intensément             |
-| Mildly                 | moderately                        | légèrement              |
-| emphasize              | stress, say more loudly           | accentuer               |
+| mildly                 | moderately                        | légèrement              |
+| to emphasize              | stress, say more loudly           | accentuer               |
 | soot                   | chimney substance                 | suie                    |
 | ubiquitous             | omnipresent, everywhere           | omniprésent             |
-| assessed               | evaluate                          | évaluer                 |
+| to assess              | evaluate                          | évaluer                 |
 | verdant                | green with vegetation             | verdoyant               |
 | crud                   | gunk: unpleasant buildup          | saleté                  |
 | lead                   | chemistry: element                | plomb                   |
 | matter                 | substance, material               | matière                 |
 | current                | at present                        | actuel                  |
-| strive                 | exert oneself                     | faire tout son possible |
+| to strive                 | exert oneself                     | faire tout son possible |
 
 For the definitions and the translations, I used Wordreference
 
