@@ -53,7 +53,7 @@ For the definitions and the translations, I used Wordreference.
 
 
 * Published in? when (if mentioned)? 
-  + Journal of Chemical Ecology
+  + Journal of Chemical Ecology.
 
 
 * General topic
