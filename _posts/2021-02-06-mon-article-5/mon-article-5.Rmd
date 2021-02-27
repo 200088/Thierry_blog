@@ -31,15 +31,15 @@ knitr::opts_chunk$set(echo = FALSE)
 |------------------------|-----------------------------------|----------------------------------------|
 | Insight                | Instance of understanding         | Eclairage                              |
 | Rather than            | In preference to                  | Plutôt que                             |
-| Flap                   | Wings: move, beat                 | Battre                                 |
-| Occur                  | Happen                            | Se produire, apparaître, se présenter  |
-| Tether                 | Faster, attach                    | Attacher                               |
+| To flap                   | Wings: move, beat                 | Battre                                 |
+| To occur                  | Happen                            | Se produire, apparaître, se présenter  |
+| To tether                 | Faster, attach                    | Attacher                               |
 | Gentle                 | Impact                            | Faible                                 |
 | Reflective             | Reflecting light                  | Réfléchissant                          |
 | Tag                    | Identification label              | Etiquette                              |
 | Whether                | If                                | Si                                     |
-| Differ                 | be different                      | Différer, être différent, se distinger |
-| Buzz                   | insect: make humming sound fly    | Bourdonner                             |
+| To differ                 | be different                      | Différer, être différent, se distinger |
+| To buzz                   | insect: make humming sound fly    | Bourdonner                             |
 
 
 For the definitions and the translations, I used Wordreference.
