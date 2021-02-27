@@ -29,17 +29,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | **Word from the text** | **Synonym/definition in English**                  | **French translation**     |
 |------------------------|----------------------------------------------------|----------------------------|
-| gather                 | collect                                            | ramasser                   |
+| To gather                 | collect                                            | ramasser                   |
 | nibble                 | to bite off, eat or chew in small bits             | petite bouchée, petit bout |
 | spurring               | to incite (one) to take action                     | incitant                   |
-| blossom                | flowers on trees : open                            | fleurir                    |
+| To blossom                | flowers on trees : open                            | fleurir                    |
 | schedule               | timetable                                          | programme                  |
-| triggered              | to cause or begin                                  | déclencher, provoquer      |
+| To trigger              | to cause or begin                                  | déclencher, provoquer      |
 | drought                | no rain                                            | sécheresse                 |
 | incentive              | something that arouses someone to action           | avantage                   |
 | mesh                   | an intertwined structure resembling a net; network | filet                      |
 | widespread             | spread over a wide area                            | étendu                     |
-| prompt                 | encourage                                          | pousser                    |
+| To prompt                 | encourage                                          | pousser                    |
 
 For the definitions and the translations I used Wordreference.
 
