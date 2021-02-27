@@ -31,14 +31,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | **Word from the text** | **Synomym/definition in English** | **French translation**          |
 |--------------------|-------------------------------|-----------------------------|
-| provide            | furnish, supply               | fournir                     |
+|  to provide            | furnish, supply               | fournir                     |
 | endangered         | species: close to extinction  | menacé d'extinction         |
 | culprit            | causing a problem             | coupable                    |
 | sample             | representative piece          | échantillon                 |
 | funding            | financing                     | financement                 |
 | occupancy          | tenancy: of a property        | occupation                  |
 | homeowner          | person who owns a house       | pripriétaire                |
-| thrive             | grow healthily                | bien se porter              |
+| to thrive             | grow healthily                | bien se porter              |
 | throughout         | time: during all of           | tout au long de             |
 | tank               | storage container for liquids | réservoir                   |
 | nesting            | bird: building a nest         | nidification                |
