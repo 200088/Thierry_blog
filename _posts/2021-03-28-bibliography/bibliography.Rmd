@@ -1,7 +1,9 @@
 ---
-title: "bibliography"
+title: "Bibliography's portfolio"
+categories:
+  -pollinators
 description: |
-  A short description of the post.
+ Bibliography.
 author:
   - name: ___
     url: {}
@@ -15,7 +17,19 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+Article 1 : Stokstad E.(21/05_2020). Hungry Bumble bees make plants flower early by cutting holes in their leaves. Science Mag. https://www.sciencemag.org/news/2020/05/hungry-bumblebees-make-plants-flower-early-cutting-holes-their-leaves , visited on October 3, 2020.
+
+Article 2 : North Carolina State University, (11/05/20). bumble bee disease, reproduction shaped by flowering strip plants. ScienceDaily. https://www.sciencedaily.com/releases/2020/05/200511154852.htm , visited on Oktober 10, 2020.
+
+Article 3 : University of Wyoming.(29/06/2020). Researchers look for answers as to why western bumblebees are declining. ScienceDaily. https://www.sciencedaily.com/releases/2020/06/200629164148.htm , visited on Oktober 10, 2020.
+
+Article 4 : Barath H.(10/08/2020). Its body looked like a warzone.’ Air pollution could kill off critical honey bees in India. Science Mag. https://www.sciencemag.org/news/2020/08/its-body-looked-warzone-air-pollution-could-kill-critical-honey-bees-india  , visited on november 14, 2020.
+
+Article 5 : University of Stirling. Bees'buzz is more powerful for pollinisation, than for defense or flight. ScienceDaily. https://www.sciencedaily.com/releases/2020/07/200729114732.htm . Visited on February 6, 2021 .
+
+Article 6 : Drahl C. (2020). This moth may outsmart smog by learning to like pollution-altered aromas. ScienceNews. https://www.sciencenews.org/article/moth-learn-pollution-smog-altered-aromas-flower-smells . Visited on  February 12, 2021.
+
+AArticle 7 : University of Bristol.(21/02/2021). Pioneering research reveals gardens are secret powerhouse for pollinators. ScienceDaily. https://www.sciencedaily.com/releases/2021/02/210221195714.htm . Visited on February 26, 2021
+
 
