@@ -1,0 +1,20 @@
+---
+title: "Portfolio’s Introduction"
+categories:
+  -pollinators
+description: |
+  Introduction
+author:
+  - name: ___
+    url: {}
+date: 03-28-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+To beginning, The topic of my portfolio is the pollinators. I have chosen the pollinators because the insects and plants and the link between the two are very interesting. Then, there is a very big diversity in pollinators which give a huge amount of possibility to study them. And it is also true for the plants. This topic is very important for the society at the moment with the climatic change and the pollution. This portfolio owns seven analysis of scientific articles. In generally, my portfolio speaks about the pollinator’s behaviour, the pollution’s effects on the pollinators population and the  possible adaptation about the pollution. More exactly, there is a article which presents the reason why the bumble bees cut holes in leaves. A other speaks about the type of plants which have different infection’s rate for the bumble bees. Yet another talk about the decrease of western bumble bees. Then, there is still an article which speaks about the pollution’s effect on the body of honey bee in India. The fifth article talk about the different buzzing intensities by the bees. After, the sixth article shows that the moth can adapt to the aroma’s change caused by the pollution. The last article presents the importance of gardens for the pollinators. 
