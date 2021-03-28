@@ -1,7 +1,9 @@
 ---
-title: "mon conclusion"
+title: "Portfolio’s conclusion"
+categories:
+  -pollinators
 description: |
-  A short description of the post.
+  Conclusion
 author:
   - name: ___
     url: {}
@@ -15,7 +17,4 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
+In conclusion, I have learnt a lot of thing through this seven articles. To beginning, the bumble bees make holes in the leaves of plants because it enables the early blooming to find food. Thus, it means that the bumble bees can change the behaviour of plants. Then, I have learnt that the infection rate of flowering strips by Crithidia bomby does not importance for the growth of bee’s population. After, I  read that the western bumble bees have become an endangered species. Next, an other fact is the decrease of life expectancy by the giant Asian honey bee because of the pollution and it could trigger a reduction of fruit production. Finally, the three last articles enable me to learn that the bees have different buzzing intensity to defense, flight or pollination. And also, certains pollinators are able to have an  adaptation about the pollution and the  gardens are a huge importance for the pollinator’s conservation .
