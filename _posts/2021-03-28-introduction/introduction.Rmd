@@ -1,7 +1,7 @@
 ---
 title: "Portfolio’s Introduction"
 categories:
-  -pollinators
+  - pollinators
 description: |
   Introduction
 author:
